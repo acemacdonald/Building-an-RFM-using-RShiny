@@ -1,0 +1,12 @@
+---
+title: "DDP_Presentation"
+author: "Angus Macdonald"
+date: "15/11/2019"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## This presenation will be a guide on how to use the Shiny App created in this project.
